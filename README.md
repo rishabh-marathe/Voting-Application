@@ -17,7 +17,6 @@ This repository contains a Voting Application built as a practice project. It is
 
 ## Features
 
-- **User Registration and Login:** Secure user access.
 - **Voting Mechanism:** Users can cast votes to candidate.
 - **Result page:** Manage & view results.
 - **Data Management:** Persistent storage of application data.
@@ -25,6 +24,9 @@ This repository contains a Voting Application built as a practice project. It is
 ## Technologies Used
 
 - **Java:** Core programming language used for building the application.
+- **Spring Boot
+- **Spring JPA
+- **My Sql
 
 ## Setup and Installation
 
